@@ -16,6 +16,10 @@
   - **Excel to List&lt;T&gt; Importer/Exporter** _(Unfortunately this is closed source but, it's my favourite one, and saves Audacia Dev's a lot of time)_
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> 
 
-[![jpenny1993's github stats](https://github-readme-stats.vercel.app/api?username=jpenny1993&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="jpenny1993's github stats" src="https://github-readme-stats.vercel.app/api?username=jpenny1993&show_icons=true&theme=merko" />
+  </a>
+</p>
