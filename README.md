@@ -15,14 +15,10 @@
   - [Code Challenges](https://github.com/jpenny1993/CodeChallenges)
   - **Excel to List&lt;T&gt; Importer/Exporter** _(Unfortunately this is closed source but, it's my favourite one, and saves Audacia Dev's a lot of time)_
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka--> 
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="jpenny1993's github stats" src="https://github-readme-stats.vercel.app/api?username=jpenny1993&show_icons=true&theme=merko" />
+    <img align="top" alt="overall stats" src="https://github-readme-stats.vercel.app/api?username=jpenny1993&theme=algolia&count_private=true&show_icons=true" />
+    <img align="top" alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpenny1993&theme=algolia&layout=compact" />
   </a>
 </p>
+<br>
