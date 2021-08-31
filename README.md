@@ -17,8 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" alt="overall stats" src="https://github-readme-stats.vercel.app/api?username=jpenny1993&theme=algolia&count_private=true&show_icons=true" />
     <img align="top" alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpenny1993&theme=algolia&layout=compact" />
+	<img align="top" alt="overall stats" src="https://github-readme-stats.vercel.app/api?username=jpenny1993&theme=algolia&count_private=true&show_icons=true" />
   </a>
 </p>
-<br>
