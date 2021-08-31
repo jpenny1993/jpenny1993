@@ -1,4 +1,4 @@
-name: Waka Metrics
+name: Weekly Metrics
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY:  jpenny1993/jpenny1993
           SHOW_TITLE: true
           COMMIT_MESSAGE: Updated weekly metrics
