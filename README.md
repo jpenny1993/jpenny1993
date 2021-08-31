@@ -16,6 +16,9 @@
   - **Excel to List&lt;T&gt; Importer/Exporter** _(Unfortunately this is closed source but, it's my favourite one, and saves Audacia Dev's a lot of time)_
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka--> 
 
 <p align="center">
