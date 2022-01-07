@@ -13,7 +13,6 @@
   - [Async Task Pipelines](https://github.com/jpenny1993/TaskExtensions)
   - [Sort & Search Algorithms](https://github.com/jpenny1993/Algorithms)
   - [Code Challenges](https://github.com/jpenny1993/CodeChallenges)
-  - **Excel to List&lt;T&gt; Importer/Exporter** _(Unfortunately this is closed source but, it's my favourite one, and saves Audacia Dev's a lot of time)_
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
