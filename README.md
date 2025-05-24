@@ -4,9 +4,9 @@
   <a href="https://twitter.com/jpenny1993"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-jpenny1993-%23266197?style=flat-square"></a>
 </p>
 
-- 👨‍💻 I'm currently a software engineer for [Ligentia UK](https://www.ligentia.com).
+- 👨‍💻 I'm currently a lead software engineer for [Ligentia UK](https://www.ligentia.com).
 - 🥼 I've 15+ years experience in .Net development, and have been maintaining production systems for 10+ years.
-- 🌱 I'm currently learning chess notation. I'm writing a chess library, with the intent to use in a unity game, and later integrate with lichess.org
+- 🌱 In my free time I develop game launchers for a [LAN gaming company](https://ls-lan.co.uk) in the North of England.
 - 🌲 Here are some of the more interesting projects I've done in my free time.
   - [RTSP Viewer](https://github.com/jpenny1993/RtspViewer)
   - [Embedded Smart Sensor](https://github.com/jpenny1993/GT.NetworkCamera)
