@@ -5,7 +5,7 @@
 </p>
 
 - 👨‍💻 I'm currently a software engineer for [Ligentia UK](https://www.ligentia.com).
-- 🥼 I've 10+ years experience in .Net development, and have been maintaining production systems for 3+ years.
+- 🥼 I've 15+ years experience in .Net development, and have been maintaining production systems for 10+ years.
 - 🌱 I'm currently learning chess notation. I'm writing a chess library, with the intent to use in a unity game, and later integrate with lichess.org
 - 🌲 Here are some of the more interesting projects I've done in my free time.
   - [RTSP Viewer](https://github.com/jpenny1993/RtspViewer)
